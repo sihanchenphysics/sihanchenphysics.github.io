@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Sihan Chen"
   avatar           : "profile.jpg"
-  bio              : "I'm currently a PhD candidate in Physics at Rice University, supervised by Prof. Fred MacKintosh.
-  Before Rice, I received a B.S. in Physics at University of Science and Technology of China. I completed a senior thesis under the supervision of Prof. Huiyuan Wang."
+  bio              : "I'm currently a PhD candidate in Physics at Rice University, supervised by Prof. Fred MacKintosh."
   location         : "Houston, TX"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
