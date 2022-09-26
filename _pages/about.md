@@ -12,7 +12,7 @@ I'm a theorist working on biological physics, soft condensed matter and non-equi
 
 Motor-free Contractility
 ======
-![Motor-free](/images/motor-free.png)
+![Motor-free](/images/motor-free.png =100x200)
 
 
 Stress Relaxation of Transient-Crosslinked Networks
