@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 2022
-=====
-**Motor-free contractility of active biopolymer networks**
+---
+Motor-free contractility of active biopolymer networks
 
 Submitted to Phys. Rev. E
 ---
