@@ -11,7 +11,7 @@ redirect_from:
 I'm a theorist working on biological physics, soft condensed matter and non-equilibrium statistical mechanics. More specifically, I develop analytical theories along with computational simulation for various biopolymer networks, e.g. cytoskeleton and extracellular matrix. 
 
 Motor-free Contractility
-![Motor-free](/images/motor-free.pdf)
+![Motor-free](/images/motor-free.png)
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
