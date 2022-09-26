@@ -21,5 +21,5 @@ Stress Relaxation of Transient-Crosslinked Networks
 
 Effective Medium Theory for Non-affine Deformation
 ======
-<img src="/images/non-affine.png" width="600px">
+<img src="/images/non-affine.png" width="900px">
 
