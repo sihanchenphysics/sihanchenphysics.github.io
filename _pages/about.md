@@ -17,9 +17,9 @@ Motor-free Contractility
 
 Stress Relaxation of Transient-Crosslinked Networks
 ======
-![Transient](/images/transient.png)
+<img src="/images/transient.png" width="600px">
 
 Effective Medium Theory for Non-affine Deformation
 ======
-![non-affine](/images/non-affine.png)
+<img src="/images/non-affine.png" width="600px">
 
