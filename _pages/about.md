@@ -19,7 +19,7 @@ In this project I studied the non-equilibrium force generation in biopolymer net
 Stress Relaxation of Transient-Crosslinked Networks
 ======
 <img src="/images/transient.png" width="600px">
-In this project I studied the stress relaxation of biopolymer networks due to unbinding/rebinding process of transient crosslinkers. We explain the glassy viscoelasticity of living cells using the two effects: the fluidization of networks due to transient crosslinkers and the solidification of networks due to internal contractile stress from motors.
+In this project I studied the stress relaxation of biopolymer networks due to unbinding/rebinding process of transient crosslinkers. We explain the glassy viscoelasticity of living cells using two effects: the fluidization of networks due to transient crosslinkers and the solidification of networks due to internal contractile stress from motors.
 
 Effective Medium Theory for Non-affine Deformation
 ======
