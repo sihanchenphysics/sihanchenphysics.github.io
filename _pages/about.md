@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a theorist working on biological physics, soft condensed matter and non-equilibrium statistical mechanics. More specifically, I develop analytical theories along with computational simulation for various biopolymer networks, e.g. cytoskeleton and extracellular matrix. 
 
-Motor-free Contractility
+Motor-free Contractility in Active Gels
 ======
 <img src="/images/motor-free.png" width="600px">
 
